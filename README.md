@@ -1,2 +1,2 @@
 # jianhope.github.io
-hello word
+hello world
